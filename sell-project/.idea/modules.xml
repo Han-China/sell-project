@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/order/client/client.iml" filepath="$PROJECT_DIR$/order/client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order/common/common.iml" filepath="$PROJECT_DIR$/order/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order/order.iml" filepath="$PROJECT_DIR$/order/order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product/product.iml" filepath="$PROJECT_DIR$/product/product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product/client/product-client.iml" filepath="$PROJECT_DIR$/product/client/product-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product/common/product-common.iml" filepath="$PROJECT_DIR$/product/common/product-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product/server/product-server.iml" filepath="$PROJECT_DIR$/product/server/product-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sell-eureka-server/sell-eureka-server.iml" filepath="$PROJECT_DIR$/sell-eureka-server/sell-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sell-order/sell-order.iml" filepath="$PROJECT_DIR$/sell-order/sell-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sell-product/sell-product.iml" filepath="$PROJECT_DIR$/sell-product/sell-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order/server/server.iml" filepath="$PROJECT_DIR$/order/server/server.iml" />
+    </modules>
+  </component>
+</project>

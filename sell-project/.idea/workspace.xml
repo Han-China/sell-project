@@ -1,0 +1,988 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c94058b2-312e-49ab-b08a-a2a7539a0745" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/sell-product/target/" />
+    <ignored path="$PROJECT_DIR$/sell-eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/sell-order/target/" />
+    <ignored path="$PROJECT_DIR$/product/target/" />
+    <ignored path="$PROJECT_DIR$/product/common/target/" />
+    <ignored path="$PROJECT_DIR$/product/server/target/" />
+    <ignored path="$PROJECT_DIR$/product/client/target/" />
+    <ignored path="$PROJECT_DIR$/order/target/" />
+    <ignored path="$PROJECT_DIR$/order/common/target/" />
+    <ignored path="$PROJECT_DIR$/order/client/target/" />
+    <ignored path="$PROJECT_DIR$/order/server/target/" />
+    <ignored path="$PROJECT_DIR$/config/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1184356539">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="ServiceInstanceChooser" value="1" />
+          <entry key="class" value="8" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="197" />
+          <entry key="pom" value="5" />
+          <entry key="properties" value="2" />
+          <entry key="xml" value="57" />
+          <entry key="yml" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="8" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="197" />
+          <entry key="Properties" value="2" />
+          <entry key="UML" value="1" />
+          <entry key="XML" value="62" />
+          <entry key="YAML" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="7685" />
+          <entry key="xml" value="1361" />
+          <entry key="yml" value="318" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="7685" />
+          <entry key="XML" value="1361" />
+          <entry key="YAML" value="318" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>result</find>
+      <find>NotEmpty</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sell-order/src/main/java/com/sell/exception/OrderException.java" />
+        <option value="$PROJECT_DIR$/sell-order/src/main/java/com/sell/sellorder/exception/OrderException.java" />
+        <option value="$PROJECT_DIR$/sell-order/src/main/java/com/sell/sellorder/form/OrderForm.java" />
+        <option value="$PROJECT_DIR$/sell-order/src/main/java/com/sell/sellorder/enums/OrderExceptionEnum.java" />
+        <option value="$PROJECT_DIR$/sell-order/src/main/java/com/sell/sellorder/vo/ResultVO.java" />
+        <option value="$PROJECT_DIR$/sell-order/src/main/java/com/sell/sellorder/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/sell-order/src/main/java/com/sell/sellorder/converter/OrderForm2OrderDTOConverter.java" />
+        <option value="$PROJECT_DIR$/product/common/pom.xml" />
+        <option value="$PROJECT_DIR$/product/common/src/main/java/com/sell/product/common/DecreaseStockInput.java" />
+        <option value="$PROJECT_DIR$/product/common/src/main/java/com/sell/product/common/ProductInfoOutput.java" />
+        <option value="$PROJECT_DIR$/product/server/src/main/java/com/sell/product/service/impl/ProductCategoryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/product/server/src/main/java/com/sell/product/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/product/server/src/main/java/com/sell/product/controller/ServerController.java" />
+        <option value="$PROJECT_DIR$/product/server/src/main/java/com/sell/product/exception/ProductException.java" />
+        <option value="$PROJECT_DIR$/product/server/src/main/java/com/sell/product/repository/ProductCategoryRepository.java" />
+        <option value="$PROJECT_DIR$/product/server/src/main/java/com/sell/product/repository/ProductInfoRepository.java" />
+        <option value="$PROJECT_DIR$/product/server/src/main/java/com/sell/product/service/impl/ProductInfoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/product/server/src/main/java/com/sell/product/service/ProductCategoryService.java" />
+        <option value="$PROJECT_DIR$/product/server/src/main/java/com/sell/product/service/ProductInfoService.java" />
+        <option value="$PROJECT_DIR$/product/server/src/main/java/com/sell/product/utils/ResultVOUtil.java" />
+        <option value="$PROJECT_DIR$/product/server/src/test/java/com/sell/product/server/repository/ProductInfoRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/product/server/src/test/java/com/sell/product/server/service/impl/ProductInfoServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/order/client/pom.xml" />
+        <option value="$PROJECT_DIR$/order/common/pom.xml" />
+        <option value="$PROJECT_DIR$/sell-order/pom.xml" />
+        <option value="$PROJECT_DIR$/order/server/src/main/java/com/sell/order/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/order/server/src/main/java/com/sell/order/converter/OrderForm2OrderDTOConverter.java" />
+        <option value="$PROJECT_DIR$/order/server/src/main/java/com/sell/order/dto/OrderDTO.java" />
+        <option value="$PROJECT_DIR$/order/server/src/main/java/com/sell/order/exception/OrderException.java" />
+        <option value="$PROJECT_DIR$/order/server/src/main/java/com/sell/order/repository/OrderDetailRepository.java" />
+        <option value="$PROJECT_DIR$/order/server/src/main/java/com/sell/order/repository/OrderMasterRepository.java" />
+        <option value="$PROJECT_DIR$/order/server/src/main/java/com/sell/order/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/order/server/src/test/java/com/sell/order/repository/OrderDetailRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/order/server/src/test/java/com/sell/order/repository/OrderMasterRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/order/server/src/test/java/com/sell/order/service/FeignRequestTest.java" />
+        <option value="$PROJECT_DIR$/order/server/src/test/java/com/sell/order/service/RibbonRequestTest.java" />
+        <option value="$PROJECT_DIR$/order/server/src/test/java/com/sell/order/utils/KeyUtilTest.java" />
+        <option value="$PROJECT_DIR$/product/client/src/main/java/com/sell/product/client/ProductClient.java" />
+        <option value="$PROJECT_DIR$/order/server/src/main/java/com/sell/order/service/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/order/server/src/test/java/com/sell/order/service/impl/OrderServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/order/server/src/test/java/com/sell/order/client/ProductClientTest.java" />
+        <option value="$PROJECT_DIR$/product/server/src/main/java/com/sell/product/ServerApplication.java" />
+        <option value="$PROJECT_DIR$/product/client/pom.xml" />
+        <option value="$PROJECT_DIR$/product/server/pom.xml" />
+        <option value="$PROJECT_DIR$/order/pom.xml" />
+        <option value="$PROJECT_DIR$/product/pom.xml" />
+        <option value="$PROJECT_DIR$/order/server/pom.xml" />
+        <option value="$PROJECT_DIR$/order/server/src/main/java/com/sell/order/OrderServerApplication.java" />
+        <option value="$PROJECT_DIR$/config/pom.xml" />
+        <option value="$PROJECT_DIR$/config/src/main/java/com/sell/config/ConfigApplication.java" />
+        <option value="$PROJECT_DIR$/config/src/main/resources/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sell-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sell-eureka-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551664243865" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/config" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.26406428" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.sell.sellorder.service.impl" />
+      <recent name="com.sell.sellproduct.service.impl" />
+      <recent name="com.sell.sellorder.client" />
+      <recent name="com.sell.sellproduct.serverController" />
+      <recent name="com.sell.sellproduct.repository" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.sell.product" />
+      <recent name="com.sell.sellorder" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sell.product.client" />
+      <recent name="com.sell.sellorder.dto" />
+      <recent name="com.sell.sellorder.entity" />
+      <recent name="com.sell.sellorder.service" />
+      <recent name="com.sell.sellorder.enums" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Ideaworkspace\my-project\sell-project\config\src\main\resources" />
+      <recent name="E:\Ideaworkspace\my-project\sell-project\order\server\src\test\java\com\sell\order" />
+      <recent name="E:\Ideaworkspace\my-project\sell-project\order\server\src\main\resources" />
+      <recent name="E:\Ideaworkspace\my-project\sell-project\order\server\src\main\java\com\sell\order" />
+      <recent name="E:\Ideaworkspace\my-project\sell-project\product\server\src\main\resources" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.sell.sellorder.service.impl" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SellProductApplication">
+    <configuration name="FeignRequestTest.testProductMsg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sell-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sell.sellorder.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sell.sellorder.service" />
+      <option name="MAIN_CLASS_NAME" value="com.sell.sellorder.service.FeignRequestTest" />
+      <option name="METHOD_NAME" value="testProductMsg" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceImplTest.create" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sell-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sell.sellorder.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sell.sellorder.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.sell.sellorder.service.impl.OrderServiceImplTest" />
+      <option name="METHOD_NAME" value="create" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductClientTest.testDecreaseStock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sell-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sell.sellorder.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sell.sellorder.client" />
+      <option name="MAIN_CLASS_NAME" value="com.sell.sellorder.client.ProductClientTest" />
+      <option name="METHOD_NAME" value="testDecreaseStock" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductInfoServiceImplTest.decreaseStock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sell-product" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sell.sellproduct.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sell.sellproduct.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.sell.sellproduct.service.impl.ProductInfoServiceImplTest" />
+      <option name="METHOD_NAME" value="decreaseStock" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sell.order.client.ClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sell.product.client.ClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sell.product.common.CommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sell.order.common.CommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sell.common.CommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sell.config.ConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sell.order.OrderServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SellEurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sell-eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sell.selleurekaserver.SellEurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SellOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sell-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sell.sellorder.SellOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SellProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sell-product" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sell.sellproduct.SellProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="product-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sell.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sell.product.ServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sell.product.ServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.SellEurekaServerApplication" />
+      <item itemvalue="Spring Boot.SellProductApplication" />
+      <item itemvalue="Spring Boot.SellOrderApplication" />
+      <item itemvalue="Spring Boot.CommonApplication" />
+      <item itemvalue="Spring Boot.CommonApplication (1)" />
+      <item itemvalue="Spring Boot.ServerApplication" />
+      <item itemvalue="Spring Boot.ClientApplication" />
+      <item itemvalue="Spring Boot.CommonApplication (2)" />
+      <item itemvalue="Spring Boot.ClientApplication (1)" />
+      <item itemvalue="Spring Boot.OrderServerApplication" />
+      <item itemvalue="Spring Boot.ConfigApplication" />
+      <item itemvalue="Spring Boot.ConfigApplication (1)" />
+      <item itemvalue="JUnit.FeignRequestTest.testProductMsg" />
+      <item itemvalue="JUnit.ProductInfoServiceImplTest.decreaseStock" />
+      <item itemvalue="JUnit.ProductClientTest.testDecreaseStock" />
+      <item itemvalue="JUnit.OrderServiceImplTest.create" />
+      <item itemvalue="Spring Boot.ServerApplication (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ServerApplication (1)" />
+        <item itemvalue="JUnit.OrderServiceImplTest.create" />
+        <item itemvalue="JUnit.FeignRequestTest.testProductMsg" />
+        <item itemvalue="JUnit.ProductClientTest.testDecreaseStock" />
+        <item itemvalue="JUnit.ProductInfoServiceImplTest.decreaseStock" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c94058b2-312e-49ab-b08a-a2a7539a0745" name="Default Changelist" comment="" />
+      <created>1551411986759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551411986759</updated>
+      <workItem from="1551411988078" duration="6998000" />
+      <workItem from="1551511626262" duration="24568000" />
+      <workItem from="1551592974664" duration="605000" />
+      <workItem from="1551604499178" duration="10594000" />
+      <workItem from="1551623310711" duration="2729000" />
+      <workItem from="1551663478361" duration="685000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ProductClientTest_testDecreaseStock - 2019.03.02 at 21h 21m 30s.xml">
+      <configuration name="ProductClientTest.testDecreaseStock" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductClientTest_testDecreaseStock - 2019.03.02 at 21h 23m 42s.xml">
+      <configuration name="ProductClientTest.testDecreaseStock" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductClientTest_testDecreaseStock - 2019.03.02 at 21h 35m 47s.xml">
+      <configuration name="ProductClientTest.testDecreaseStock" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FeignRequestTest_testProductMsg - 2019.03.02 at 21h 39m 36s.xml">
+      <configuration name="FeignRequestTest.testProductMsg" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderServiceImplTest_create - 2019.03.02 at 22h 09m 24s.xml">
+      <configuration name="OrderServiceImplTest.create" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderServiceImplTest_create - 2019.03.02 at 22h 10m 50s.xml">
+      <configuration name="OrderServiceImplTest.create" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderServiceImplTest_create - 2019.03.02 at 22h 16m 39s.xml">
+      <configuration name="OrderServiceImplTest.create" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderServiceImplTest_create - 2019.03.02 at 22h 19m 55s.xml">
+      <configuration name="OrderServiceImplTest.create" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderServiceImplTest_create - 2019.03.02 at 22h 24m 04s.xml">
+      <configuration name="OrderServiceImplTest.create" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderServiceImplTest_create - 2019.03.02 at 23h 13m 25s.xml">
+      <configuration name="OrderServiceImplTest.create" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="46179000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Web" order="4" side_tool="true" />
+      <window_info id="Designer" order="5" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.295764" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.3295082" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.3295082" />
+      <window_info anchor="bottom" id="Java Enterprise" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.7442623" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.1442623" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.32980332" />
+      <window_info anchor="right" id="Bean Validation" order="5" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sell-order/src/test/java/com/sell/sellorder/client/ProductClientTest.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sell-order/src/test/java/com/sell/sellorder/service/impl/OrderServiceImplTest.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/product/server/src/main/java/com/sell/product/vo/ResultVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product/server/src/test/java/com/sell/product/server/repository/ProductInfoRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product/server/src/test/java/com/sell/product/server/service/impl/ProductInfoServiceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product/server/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/product/server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/2.0.3.RELEASE/spring-boot-starter-web-2.0.3.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-750" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sell-order/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="78" column="21" selection-start-line="28" selection-start-column="8" selection-end-line="78" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/server/src/main/java/com/sell/order/config/RestTemplateConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/server/src/main/java/com/sell/order/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/server/src/main/java/com/sell/order/converter/OrderForm2OrderDTOConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/server/src/main/java/com/sell/order/dto/CartDTO.java" />
+    <entry file="file://$PROJECT_DIR$/order/server/src/main/java/com/sell/order/dto/OrderDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/server/src/main/java/com/sell/order/entity/OrderDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/server/src/main/java/com/sell/order/entity/OrderMaster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/server/src/main/java/com/sell/order/entity/ProductInfo.java" />
+    <entry file="file://$PROJECT_DIR$/order/server/src/main/java/com/sell/order/enums/OrderExceptionEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/server/src/main/java/com/sell/order/enums/OrderStatusEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/server/src/main/java/com/sell/order/enums/PayStatusEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/server/src/main/java/com/sell/order/exception/OrderException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/server/src/main/java/com/sell/order/form/OrderForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/server/src/main/java/com/sell/order/repository/OrderDetailRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/server/src/main/java/com/sell/order/repository/OrderMasterRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/server/src/main/java/com/sell/order/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="35" lean-forward="true" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/server/src/main/java/com/sell/order/utils/KeyUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/server/src/main/java/com/sell/order/vo/ResultVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/server/src/test/java/com/sell/order/repository/OrderDetailRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/server/src/test/java/com/sell/order/repository/OrderMasterRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/server/src/test/java/com/sell/order/OrderServerApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/server/src/test/java/com/sell/order/utils/KeyUtilTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/server/src/test/java/com/sell/order/service/RibbonRequestTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/server/src/test/java/com/sell/order/service/FeignRequestTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product/common/src/test/java/com/sell/product/common/CommonApplicationTests.java" />
+    <entry file="file://$PROJECT_DIR$/product/client/src/main/java/com/sell/product/client/ProductClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/server/src/main/java/com/sell/order/service/impl/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="37" column="39" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/server/src/test/java/com/sell/order/service/impl/OrderServiceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/server/src/test/java/com/sell/order/client/ProductClientTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product/server/src/main/java/com/sell/product/ServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product/server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product/common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="44" column="64" selection-start-line="44" selection-start-column="64" selection-end-line="44" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product/client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/server/src/main/java/com/sell/order/OrderServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/server/server.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1400">
+          <caret line="56" column="25" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="45" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="42" column="25" selection-start-line="36" selection-start-column="12" selection-end-line="42" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/src/main/java/com/sell/config/ConfigApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>config</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.26406428" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
